@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kuliner Jawa Barat</string>
+    <string name="profile">Profile</string>
+
+    <string name="my_name">Muhammad Farhan Fauzan</string>
+    <string name="my_email">farhan.fauzan529@gmail.com</string>
+
+    <string name="kuliner_name">Nama Kuliner</string>
+    <string name="kuliner_rate">Rate Kuliner</string>
+    <string name="kuliner_detail">Detail Kuliner</string>
+    <string name="kuliner_overview">Deskripsi</string>
+
+    <string name="title_detail">Harga Makanan</string>
+    <string name="title_about_detail">Contact Person \n  \nInstagram \n \nDicoding <br/> </string>
+    <string name="about_detail">\n \nfarhanf529 \n \nhttps://www.dicoding.com/users/mfarhanf </string>
+    <string name="content_overview">Content Overview</string>
+    <string name="content_detail">Content Detail</string>
+</resources>
